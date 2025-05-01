@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 var gracefulShutdown;
 
-var dbURI = 'mongodb+srv://dishit:titans%402023@cluster0.y8zdale.mongodb.net/bikeDB?retryWrites=true&w=majority';
+var dbURI = 'mongodb+srv://rohan:My%24uperPwd2025@rohan.dg3lu3h.mongodb.net/bikeDB?retryWrites=true&w=majority';
 
 
 
